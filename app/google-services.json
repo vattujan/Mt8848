@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "323734918393",
+    "firebase_url": "https://mt8848-8848.firebaseio.com",
+    "project_id": "mt8848-8848",
+    "storage_bucket": "mt8848-8848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323734918393:android:e6cbac6f5b128b38",
+        "android_client_info": {
+          "package_name": "com.thenepalhub.mt8848"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323734918393-a36v7cvic7pkvkmvnc916egchnkos0l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thenepalhub.mt8848",
+            "certificate_hash": "1fbad93c75d53247f2cbc08322433d37bbeb7f69"
+          }
+        },
+        {
+          "client_id": "323734918393-qt5fo3g95ftpjvaq8jduo1k36luq4tqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0Y-es_dhA9HVHefEQXGOK_FxFJqDE1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323734918393-qt5fo3g95ftpjvaq8jduo1k36luq4tqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
